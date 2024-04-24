@@ -4,8 +4,8 @@ site_author: Israel Borokini
 site_url: https://github.com/tbisrael/esiil
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: esiil
+repo_url: https://github.com/tbisrael/esiil
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
